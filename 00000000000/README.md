@@ -40,5 +40,5 @@ Aby IntelliJ dalej aktualizował go po zmianach w formularzu, ustaw
 ```
 cd desktop
 mvn package                       # kompilacja + 38 testów JUnit, wynik: target/NadajPrzesylke.jar
-java -jar NadajPrzesylkeApp.jar   # uruchomienie gotowego pliku wykonywalnego
+java -jar NadajPrzesylke.jar      # uruchomienie gotowego pliku wykonywalnego
 ```
