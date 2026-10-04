@@ -2,3 +2,8 @@ target/
 __pycache__/
 *.class
 00000000000/desktop/build/
+
+# pozostałości po wcześniejszej wersji aplikacji desktopowej (zastąpione przez projekt Maven w src/main)
+00000000000/desktop/NadajPrzesylke.jar
+00000000000/desktop/src/NadajPrzesylke.java
+00000000000/desktop/src/*.png
